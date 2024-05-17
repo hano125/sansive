@@ -1,11 +1,3 @@
-## Laravel For Absolute Beginners Course Files on Udemy (PROJECT)
-
-<img src="https://img-b.udemycdn.com/course/750x422/5747534_0b8e_2.jpg">
-
-**Created By :** Mahmoud Anwar
-**Email :** Engsahaly@gmail.com
-
-This is the main readme file for the code used in laravel for absolute beginners course on Udemy (Level 1 - Project)
 
 ## Installation
 
